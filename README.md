@@ -165,6 +165,8 @@
 85.
 	https://practice.geeksforgeeks.org/problems/max-length-chain/1/?track=md-dp&batchId=144#
 	
+86.
+	https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1/?track=md-dp&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
