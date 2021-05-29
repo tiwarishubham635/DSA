@@ -5,11 +5,11 @@
 2. https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/?track=md-arrays&batchId=144
 3. https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?track=md-arrays&batchId=144#
 4. https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=md-arrays&batchId=144
-5.https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?track=md-arrays&batchId=144#
-6.https://www.interviewbit.com/problems/maximum-absolute-difference/
+5. https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?track=md-arrays&batchId=144#
+6. https://www.interviewbit.com/problems/maximum-absolute-difference/
 7. Cycle detection
 8. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count the frequency of all elements that are present and print the missing elements.
-9.https://practice.geeksforgeeks.org/problems/jump-game/1/?track=md-arrays&batchId=144#
+9. https://practice.geeksforgeeks.org/problems/jump-game/1/?track=md-arrays&batchId=144#
 10.https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1/?track=md-arrays&batchId=144#
 11.https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1/?track=md-arrays&batchId=144
 12.https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1/?track=md-arrays&batchId=144#
