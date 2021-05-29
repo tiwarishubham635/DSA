@@ -1,7 +1,8 @@
 # DSA for Interns
 
 Questions <br/>
-1.https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?track=md-arrays&batchId=144#
+1.
+	https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?track=md-arrays&batchId=144#
 2.https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/?track=md-arrays&batchId=144
 3.https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?track=md-arrays&batchId=144#
 4.https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=md-arrays&batchId=144
@@ -49,7 +50,8 @@ Questions <br/>
 44.https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/?track=md-tree&batchId=144#
 45. https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/?track=md-tree&batchId=144
 46. https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1/?track=md-tree&batchId=144#
-47. https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1/?track=md-tree&batchId=144#
+47. 
+48. 	https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1/?track=md-tree&batchId=144#
 
 48.
 	https://practice.geeksforgeeks.org/problems/check-if-subtree/1/?track=md-tree&batchId=144
