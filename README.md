@@ -39,7 +39,8 @@ Questions <br/>
 36.https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?track=md-linkedlist&batchId=144
 37. Midpoint of LL - fast reaches end, slow reaches mid
 38.https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1/?track=md-linkedlist&batchId=144#
-39.https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?track=md-linkedlist&batchId=144#
+39.
+	https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?track=md-linkedlist&batchId=144#
 40. 
 	https://practice.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1/?track=md-linkedlist&batchId=144#
 41. Copy LL with random pointers.
