@@ -10,13 +10,13 @@
 7. Cycle detection
 8. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count the frequency of all elements that are present and print the missing elements.
 9. https://practice.geeksforgeeks.org/problems/jump-game/1/?track=md-arrays&batchId=144#
-10.https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1/?track=md-arrays&batchId=144#
-11.https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1/?track=md-arrays&batchId=144
-12.https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1/?track=md-arrays&batchId=144#
+10. https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1/?track=md-arrays&batchId=144#
+11. https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1/?track=md-arrays&batchId=144
+12. https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1/?track=md-arrays&batchId=144#
 13. https://www.interviewbit.com/problems/city-tour/
-14.https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1/?track=md-arrays&batchId=144#
-15.https://practice.geeksforgeeks.org/problems/three-sum-closest/1/?track=md-arrays&batchId=144#
-16.https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1/?track=md-arrays&batchId=144#
+14. https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1/?track=md-arrays&batchId=144#
+15. https://practice.geeksforgeeks.org/problems/three-sum-closest/1/?track=md-arrays&batchId=144#
+16. https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1/?track=md-arrays&batchId=144#
 17. https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1/?track=md-arrays&batchId=144
 18. Detect if a linked list has a loop and find the starting point of the loop.
 19. https://www.interviewbit.com/problems/add-one-to-number/
@@ -27,26 +27,24 @@
 24. https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x0849/1/?track=md-searching&batchId=144#
 25. https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1/?track=md-searching&batchId=144#
 26. Given two arrays, one element is there in one array and missing in another. Find it using O(n+m) time and O(1) space.
-27.https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1/?track=md-searching&batchId=144#
-28.https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1/?track=md-searching&batchId=144
-29.https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/?track=md-searching&batchId=144#
-30.https://practice.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1/?track=md-sorting&batchId=144#
-31.https://practice.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1/?track=md-sorting&batchId=144#
+27. https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1/?track=md-searching&batchId=144#
+28. https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1/?track=md-searching&batchId=144
+29. https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/?track=md-searching&batchId=144#
+30. https://practice.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1/?track=md-sorting&batchId=144#
+31. https://practice.geeksforgeeks.org/problems/triplets-with-sum-with-given-range/1/?track=md-sorting&batchId=144#
 32. https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1/?track=md-sorting&batchId=144
 33. https://practice.geeksforgeeks.org/problems/relative-sorting4323/1/?track=md-sorting&batchId=144#
 34. https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1/?track=md-sorting&batchId=144
-35.https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?track=md-sorting&batchId=144#
-36.https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?track=md-linkedlist&batchId=144
+35. https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?track=md-sorting&batchId=144#
+36. https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?track=md-linkedlist&batchId=144
 37. Midpoint of LL - fast reaches end, slow reaches mid
-38.https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1/?track=md-linkedlist&batchId=144#
-39.
-	https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?track=md-linkedlist&batchId=144#
-40. 
-	https://practice.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1/?track=md-linkedlist&batchId=144#
+38. https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1/?track=md-linkedlist&batchId=144#
+39. https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1/?track=md-linkedlist&batchId=144#
+40. https://practice.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1/?track=md-linkedlist&batchId=144#
 41. Copy LL with random pointers.
 42. https://practice.geeksforgeeks.org/problems/symmetric-tree/1/?track=md-tree&batchId=144#
 43. https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?track=md-tree&batchId=144#
-44.https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/?track=md-tree&batchId=144#
+44. https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/?track=md-tree&batchId=144#
 45. https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/?track=md-tree&batchId=144
 46. https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1/?track=md-tree&batchId=144#
 
