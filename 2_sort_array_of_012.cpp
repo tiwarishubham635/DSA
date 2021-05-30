@@ -1,4 +1,3 @@
-2. 
 void sort012(int a[], int n)
     {
         int low = 0;
