@@ -171,6 +171,13 @@
 87.
 	https://leetcode.com/problems/min-stack
 
+88.
+	https://practice.geeksforgeeks.org/problems/subset-sum-problem2643/1/?track=md-dp&batchId=144
+
+89.
+	https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1/?track=md-dp&batchId=144
+
+
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
 2. https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/
