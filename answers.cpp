@@ -3518,3 +3518,77 @@ int maxStackHeight( Box arr[], int n )
 		return s2.top();
 	    }
 	};
+88.
+	bool helper(int a[], int n, int sum)
+    {
+        /*if(n==0)
+            return (sum<=0);
+        if(sum==0)
+            return true;
+        if(a[n-1]>sum)
+            return helper(a,n-1,sum);
+        return helper(a,n-1,sum-a[n-1]) or helper(a,n-1,sum);*/
+        
+        int** dp = new int*[2];
+        for(int i=0;i<2;i++)
+        {
+            dp[i]=new int[sum+1];
+            for(int j=0;j<=sum;j++)
+                dp[0][j]=0;
+            dp[i][0]=1;
+        }
+        
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=sum;j++)
+            {
+                if(a[n-i]>j)
+                    dp[i%2][j]=dp[(i-1)%2][j];
+                else dp[i%2][j]=(dp[(i-1)%2][j-a[n-i]] or dp[(i-1)%2][j]);
+            }
+        }
+        return dp[n%2][sum];
+    }
+    
+    bool findPartition(int a[], int n)
+    {
+        int sum=0;
+        for(int i=0;i<n;i++)
+            sum += a[i];
+        if(sum%2)
+            return false;
+        return helper(a, n, sum/2);
+    }
+
+89.
+	long long maximumAmount(int arr[], int n) 
+	{
+	    /*if(n==0)
+		return 0;
+	    if(n==1)
+		return (long long)arr[0];
+
+	    long long last = arr[n-1] + min(maximumAmount(arr+1,n-2), maximumAmount(arr,n-2));
+	    long long first = arr[0] + min(maximumAmount(arr+2,n-2), maximumAmount(arr+1,n-2));
+
+	    return max(first, last);*/
+
+	    int** dp = new int*[n+1];
+	    for(int i=0;i<=n;i++)
+	    {
+		dp[i]= new int[n-i+1];
+		dp[i][0] = 0;
+		if(i!=n)
+		    dp[i][1] = arr[i];
+	    }
+
+	    for(int i=n;i>=0;i--)
+	    {
+		for(int j=2;j<=(n-i);j++)
+		{
+		    dp[i][j] = max(arr[i+j-1]+min(dp[i+1][j-2], dp[i][j-2]), arr[i]+min(dp[i+2][j-2], dp[i+1][j-2]));
+		}
+	    }
+
+	    return dp[0][n];
+	}
