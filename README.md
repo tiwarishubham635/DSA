@@ -177,6 +177,9 @@
 89.
 	https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1/?track=md-dp&batchId=144
 
+90.
+	N-Queens Problem
+
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
