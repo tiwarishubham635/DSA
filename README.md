@@ -179,6 +179,9 @@
 
 90.
 	N-Queens Problem
+	
+91.
+	https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1/?track=md-dp&batchId=144#
 
 
 ## Puzzles
