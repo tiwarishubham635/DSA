@@ -76,3 +76,39 @@ int isPallindrome(string x)
         }
         return cut[n-1];
     }
+
+
+TO PRINT ALL PALLINDROMES
+ bool isPallindrome(string s)
+    {
+        for(int i=0;i<s.size()/2;i++)
+            if(s[i]!=s[s.size()-1-i])
+                return false;
+        return true;
+    }
+    void dfs(string s, vector<string>&path, vector<vector<string>>&ans)
+    {
+        if(s.size()==0)
+        {
+            ans.push_back(path);
+            return;
+        }
+        for(int i=1;i<=s.size();i++)
+        {
+            if(isPallindrome(s.substr(0,i)))
+            {
+                path.push_back(s.substr(0,i));
+                dfs(s.substr(i),path,ans);
+                path.pop_back();
+            }
+        }
+    }
+    vector<vector<string>> partition(string s) 
+    {
+        vector<vector<string>> ans;
+        if(s.size()==0)
+            return ans;
+        vector<string>path;
+        dfs(s, path, ans);
+        return ans;
+    }
