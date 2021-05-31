@@ -185,6 +185,9 @@
 
 92.
 	https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1/?track=md-dp&batchId=144#
+	
+93.
+	https://practice.geeksforgeeks.org/problems/form-a-palindrome2544/1/?track=md-dp&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
