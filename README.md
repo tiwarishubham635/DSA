@@ -51,153 +51,55 @@
 48. https://practice.geeksforgeeks.org/problems/check-if-subtree/1/?track=md-tree&batchId=144
 49. https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#
 50. https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#
-
-51.
-	https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1/?track=md-tree&batchId=144#
-
-52.
-	https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1/?track=md-tree&batchId=144#
-
-53.
-	https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1/?track=md-tree&batchId=144
-
-54.
-	https://practice.geeksforgeeks.org/problems/maximum-path-sum/1/?track=md-tree&batchId=144
-
-55.
-	https://practice.geeksforgeeks.org/problems/burning-tree/1/?track=md-tree&batchId=144#
-
-56.
-	https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1/?track=md-BST&batchId=144#
-
-57.
-	https://practice.geeksforgeeks.org/problems/check-for-bst/1/?track=md-BST&batchId=144#
-
-58.
-	https://practice.geeksforgeeks.org/problems/array-to-bst4443/1/?track=md-BST&batchId=144#
-
-59.
-	https://practice.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1/?track=md-BST&batchId=144
-
-60.
-	https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1/?track=md-BST&batchId=144#
-
-61.
-	https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1/?track=md-BST&batchId=144#
-
-62.
-	https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=md-bm&batchId=144#
-
-63.
-	https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/?track=md-bm&batchId=144
-
-64.
-	https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/?track=md-bm&batchId=144
-
-65.
-	https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/?track=md-bm&batchId=144
-
-66.
-	https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/?track=md-bm&batchId=144#
-
-67.
-	https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1/?track=md-bm&batchId=144
-
-68.
-	https://practice.geeksforgeeks.org/problems/maximum-and-value2637/1/?track=md-bm&batchId=144
-
-69.
-	https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/?track=md-bm&batchId=144
-
-70.
-	https://practice.geeksforgeeks.org/problems/find-sum-of-different-corresponding-bits-for-all-pairs4652/1/?track=md-bm&batchId=144
-
-71.
-	https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1/?track=md-hashing&batchId=144
-
-72.
-	https://practice.geeksforgeeks.org/problems/combination-sum-part-21208/1/?track=md-recursion&batchId=144
-
-73.
-	https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1/?track=md-dp&batchId=144
-
-74.
-	https://practice.geeksforgeeks.org/problems/coin-change2448/1/?track=md-dp&batchId=144
-
-75.
-	https://leetcode.com/problems/maximum-product-of-word-lengths/
-
-76.
-	https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1/?track=md-dp&batchId=144
-
-77.
-	https://practice.geeksforgeeks.org/problems/box-stacking/1/?track=md-dp&batchId=144
-
-78.
-	https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1/?track=md-dp&batchId=144#
-
-79.
-	https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/?track=md-dp&batchId=144#
-
-80.
-	https://leetcode.com/problems/majority-element/
-
-81.
-	https://leetcode.com/problems/move-zeroes/
-
-82.
-	https://leetcode.com/problems/happy-number/
-
-83.
-	https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1/?track=md-dp&batchId=144#
-
-84.
-	https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/?track=md-dp&batchId=144#
-
-85.
-	https://practice.geeksforgeeks.org/problems/max-length-chain/1/?track=md-dp&batchId=144#
-	
-86.
-	https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1/?track=md-dp&batchId=144
-
-87.
-	https://leetcode.com/problems/min-stack
-
-88.
-	https://practice.geeksforgeeks.org/problems/subset-sum-problem2643/1/?track=md-dp&batchId=144
-
-89.
-	https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1/?track=md-dp&batchId=144
-
-90.
-	N-Queens Problem
-	
-91.
-	https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1/?track=md-dp&batchId=144#
-
-92.
-	https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1/?track=md-dp&batchId=144#
-	
-93.
-	https://practice.geeksforgeeks.org/problems/form-a-palindrome2544/1/?track=md-dp&batchId=144#
-
-94.
-	https://leetcode.com/problems/power-of-three/
-
-95.
-	https://leetcode.com/problems/house-robber/
-
-96.
-	https://leetcode.com/problems/word-break/
-
-97.
-	https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1/?track=md-dp&batchId=144#
-
-98.
-	https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/?track=md-dp&batchId=144#
-
-99.
-	https://practice.geeksforgeeks.org/problems/maximum-profit4657/1/?track=md-dp&batchId=144#
+51. https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1/?track=md-tree&batchId=144#
+52. https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1/?track=md-tree&batchId=144#
+53. https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1/?track=md-tree&batchId=144
+54. https://practice.geeksforgeeks.org/problems/maximum-path-sum/1/?track=md-tree&batchId=144
+55. https://practice.geeksforgeeks.org/problems/burning-tree/1/?track=md-tree&batchId=144#
+56. https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1/?track=md-BST&batchId=144#
+57. https://practice.geeksforgeeks.org/problems/check-for-bst/1/?track=md-BST&batchId=144#
+58. https://practice.geeksforgeeks.org/problems/array-to-bst4443/1/?track=md-BST&batchId=144#
+59. https://practice.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1/?track=md-BST&batchId=144
+60. https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1/?track=md-BST&batchId=144#
+61. https://practice.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1/?track=md-BST&batchId=144#
+62. https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=md-bm&batchId=144#
+63. https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/?track=md-bm&batchId=144
+64. https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/?track=md-bm&batchId=144
+65. https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/?track=md-bm&batchId=144
+66. https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/?track=md-bm&batchId=144#
+67. https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1/?track=md-bm&batchId=144
+68. https://practice.geeksforgeeks.org/problems/maximum-and-value2637/1/?track=md-bm&batchId=144
+69. https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/?track=md-bm&batchId=144
+70. https://practice.geeksforgeeks.org/problems/find-sum-of-different-corresponding-bits-for-all-pairs4652/1/?track=md-bm&batchId=144
+71. https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1/?track=md-hashing&batchId=144
+72. https://practice.geeksforgeeks.org/problems/combination-sum-part-21208/1/?track=md-recursion&batchId=144
+73. https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1/?track=md-dp&batchId=144
+74. https://practice.geeksforgeeks.org/problems/coin-change2448/1/?track=md-dp&batchId=144
+75. https://leetcode.com/problems/maximum-product-of-word-lengths/
+76. https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1/?track=md-dp&batchId=144
+77. https://practice.geeksforgeeks.org/problems/box-stacking/1/?track=md-dp&batchId=144
+78. https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1/?track=md-dp&batchId=144#
+79. https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/?track=md-dp&batchId=144#
+80. https://leetcode.com/problems/majority-element/
+81. https://leetcode.com/problems/move-zeroes/
+82. https://leetcode.com/problems/happy-number/
+83. https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1/?track=md-dp&batchId=144#
+84. https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/?track=md-dp&batchId=144#
+85. https://practice.geeksforgeeks.org/problems/max-length-chain/1/?track=md-dp&batchId=144#
+86. https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1/?track=md-dp&batchId=144
+87. https://leetcode.com/problems/min-stack
+88. https://practice.geeksforgeeks.org/problems/subset-sum-problem2643/1/?track=md-dp&batchId=144
+89. https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1/?track=md-dp&batchId=144
+90. N-Queens Problem
+91. https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1/?track=md-dp&batchId=144#
+92. https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1/?track=md-dp&batchId=144#
+93. https://practice.geeksforgeeks.org/problems/form-a-palindrome2544/1/?track=md-dp&batchId=144#
+94. https://leetcode.com/problems/power-of-three/
+95. https://leetcode.com/problems/house-robber/
+96. https://leetcode.com/problems/word-break/
+97. https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1/?track=md-dp&batchId=144#
+98. https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/?track=md-dp&batchId=144#
+99. https://practice.geeksforgeeks.org/problems/maximum-profit4657/1/?track=md-dp&batchId=144#
 
 100.
 	https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1/?track=md-dp&batchId=144#
