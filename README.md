@@ -47,18 +47,10 @@
 44. https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/?track=md-tree&batchId=144#
 45. https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/?track=md-tree&batchId=144
 46. https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1/?track=md-tree&batchId=144#
-
-47.	
-	https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1/?track=md-tree&batchId=144#
-
-48.
-	https://practice.geeksforgeeks.org/problems/check-if-subtree/1/?track=md-tree&batchId=144
-
-49.
-	https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#
-
-50.
-	https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#
+47. https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1/?track=md-tree&batchId=144#
+48. https://practice.geeksforgeeks.org/problems/check-if-subtree/1/?track=md-tree&batchId=144
+49. https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#
+50. https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#
 
 51.
 	https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1/?track=md-tree&batchId=144#
