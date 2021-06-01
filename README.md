@@ -101,6 +101,7 @@
 98. https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/?track=md-dp&batchId=144#
 99. https://practice.geeksforgeeks.org/problems/maximum-profit4657/1/?track=md-dp&batchId=144#
 100. https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1/?track=md-dp&batchId=144#
+101. https://leetcode.com/problems/max-area-of-island/
 
 
 ## Puzzles
