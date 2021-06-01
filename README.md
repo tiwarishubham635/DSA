@@ -204,6 +204,9 @@
 98.
 	https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/?track=md-dp&batchId=144#
 
+99.
+	https://practice.geeksforgeeks.org/problems/maximum-profit4657/1/?track=md-dp&batchId=144#
+
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
