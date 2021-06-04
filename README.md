@@ -107,6 +107,7 @@
 104. https://practice.geeksforgeeks.org/problems/nth-natural-number/1/?track=MD-Math&batchId=144
 105. https://leetcode.com/problems/regular-expression-matching/
 106. https://leetcode.com/problems/open-the-lock/
+107. https://practice.geeksforgeeks.org/problems/b6b608d4eb1c45f2b5cace77c4914f302ff0f80d/1/?track=MD-Math
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
