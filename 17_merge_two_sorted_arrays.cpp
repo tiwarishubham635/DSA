@@ -119,3 +119,38 @@ O(n+m) Approach - Two values at a place
 	   for(int j=0;j<m;j++)
 	    arr2[j] = arr2[j]/max_ele;
 	}
+
+ANOTHER O(N+M) APPROACH
+void merge(vector<int>& arr1, int n, vector<int>& arr2, int m) 
+    {
+        int x = (m+n) - arr1.size();
+        for(int i=0;i<x;i++)
+            arr1.push_back(0);
+	   int i,j,k;
+	   for(i=n-1, j=m-1,k=m+n-1;i>=0&&j>=0;)
+	   {
+	       if(arr1[i]<=arr2[j])
+	       {
+	           arr1[k] = arr2[j];
+	           k--; j--;
+	       }
+	       else
+	       {
+	           arr1[k] = arr1[i];
+	           k--; i--;
+	       }
+	   }
+	   
+	   while(j>=0)
+	   {
+	       arr1[k] = arr2[j];
+	       k--; j--;
+	   }
+	   
+	   while(i>=0)
+	   {
+	       arr1[k] = arr1[i];
+	       k--; i--;
+	   }
+	  
+    }
