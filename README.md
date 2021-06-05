@@ -109,6 +109,7 @@
 106. https://leetcode.com/problems/open-the-lock/
 107. https://practice.geeksforgeeks.org/problems/b6b608d4eb1c45f2b5cace77c4914f302ff0f80d/1/?track=MD-Math
 108. https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1
+109. https://leetcode.com/problems/shortest-palindrome/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
