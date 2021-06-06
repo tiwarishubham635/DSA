@@ -113,6 +113,7 @@
 110. https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 111. https://leetcode.com/problems/maximum-performance-of-a-team/
 112. https://codeforces.com/problemset/problem/830/A
+113. https://leetcode.com/problems/longest-consecutive-sequence/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
