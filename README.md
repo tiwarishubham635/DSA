@@ -115,6 +115,7 @@
 112. https://codeforces.com/problemset/problem/830/A
 113. https://leetcode.com/problems/longest-consecutive-sequence/
 114. https://leetcode.com/problems/count-primes/
+115. https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1/?track=md-string&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
