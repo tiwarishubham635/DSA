@@ -120,6 +120,7 @@
 117. https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1/?track=md-string&batchId=144#
 118. https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1/?track=md-string&batchId=144
 119. https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1/?track=md-hashing&batchId=144
+120. https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1/?track=md-hashing&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
