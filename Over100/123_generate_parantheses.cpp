@@ -43,3 +43,26 @@
         if(m > 0){ addingpar(v, str+")", n, m-1); }
         if(n > 0){ addingpar(v, str+"(", n-1, m+1); }
     }
+
+/*
+FASTEST
+vector<string> ans;
+    void dfs(string& generated, int n, int l, int r){
+        if(l>n || r>l) return;
+        if(l==r && l==n){
+            ans.push_back(generated);
+            return;
+        }
+        generated += "(";
+        dfs(generated,n,l+1,r);
+        generated.pop_back();
+        generated += ")";
+        dfs(generated,n,l,r+1);
+        generated.pop_back();
+    }
+    vector<string> generateParenthesis(int n) {
+        string generated = "";
+        dfs(generated, n, 0, 0);
+        return ans;
+    }
+*/
