@@ -128,6 +128,7 @@
 125. https://www.geeksforgeeks.org/prefix-infix-conversion/
 126. https://www.geeksforgeeks.org/postfix-prefix-conversion/
 127. https://www.geeksforgeeks.org/convert-infix-prefix-notation/
+128. https://leetcode.com/problems/stone-game-vii/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
