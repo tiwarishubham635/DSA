@@ -126,6 +126,8 @@
 123. https://leetcode.com/problems/generate-parentheses/
 124. https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1/?track=md-stack&batchId=144
 125. https://www.geeksforgeeks.org/prefix-infix-conversion/
+126. https://www.geeksforgeeks.org/postfix-prefix-conversion/
+127. https://www.geeksforgeeks.org/convert-infix-prefix-notation/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
