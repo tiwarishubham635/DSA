@@ -125,6 +125,7 @@
 122. https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1/?track=md-hashing&batchId=144#
 123. https://leetcode.com/problems/generate-parentheses/
 124. https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1/?track=md-stack&batchId=144
+125. https://www.geeksforgeeks.org/prefix-infix-conversion/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
