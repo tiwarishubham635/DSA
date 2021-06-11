@@ -21,3 +21,4 @@ string prefix_to_infix(string s)
     }
     return st.top();
 }
+For postfix to infix, just travel from i = 0 to size and when an operator is found, push s2+operator+s1 in the stack.
