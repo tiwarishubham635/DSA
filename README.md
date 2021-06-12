@@ -131,6 +131,7 @@
 128. https://leetcode.com/problems/stone-game-vii/
 129. https://www.codechef.com/FLPAST01/problems/BADMATH
 130. https://www.codechef.com/FLPAST01/problems/HASHRAD
+131. https://leetcode.com/problems/minimum-number-of-refueling-stops/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
