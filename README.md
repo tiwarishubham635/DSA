@@ -133,6 +133,7 @@
 130. https://www.codechef.com/FLPAST01/problems/HASHRAD
 131. https://leetcode.com/problems/minimum-number-of-refueling-stops/
 132. https://leetcode.com/problems/game-of-life/
+133. https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?track=md-stack&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
