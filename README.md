@@ -136,6 +136,7 @@
 133. https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1/?track=md-stack&batchId=144#
 134. https://leetcode.com/problems/palindrome-pairs/
 135. https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/?track=md-stack&batchId=144#
+136. https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/?track=md-stack&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
