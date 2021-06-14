@@ -141,6 +141,7 @@
 138. https://practice.geeksforgeeks.org/problems/longest-valid-parentheses5657/1/?track=md-stack&batchId=144#
 139. https://practice.geeksforgeeks.org/problems/remove-k-digits/1/?track=md-stack&batchId=144#
 140. https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1/?track=md-stack&batchId=144
+141. https://practice.geeksforgeeks.org/problems/355f731797ea1acbd5ab698b19eb1c3c469aa837/1/?track=md-stack&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
