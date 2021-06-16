@@ -144,6 +144,7 @@
 141. https://practice.geeksforgeeks.org/problems/355f731797ea1acbd5ab698b19eb1c3c469aa837/1/?track=md-stack&batchId=144#
 142. https://leetcode.com/problems/matchsticks-to-square/
 143. https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1/?track=md-heap&batchId=144#
+144. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1/?track=md-heap&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
