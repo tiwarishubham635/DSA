@@ -151,6 +151,7 @@
 148. https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#
 149. https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1/?track=md-graph&batchId=144#
 150. https://leetcode.com/problems/k-inverse-pairs-array/
+151. https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
