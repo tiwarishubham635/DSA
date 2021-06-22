@@ -153,6 +153,7 @@
 150. https://leetcode.com/problems/k-inverse-pairs-array/
 151. https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands/
 152. https://leetcode.com/contest/weekly-contest-246/problems/minimum-absolute-difference-queries/
+153. https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1/?track=md-graph&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
