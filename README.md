@@ -155,6 +155,7 @@
 152. https://leetcode.com/contest/weekly-contest-246/problems/minimum-absolute-difference-queries/
 153. https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1/?track=md-graph&batchId=144#
 154. https://practice.geeksforgeeks.org/problems/minimum-swaps/1/?track=md-graph&batchId=144#
+155. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1/?track=md-graph&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
