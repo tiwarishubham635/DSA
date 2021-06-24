@@ -7,7 +7,7 @@
 4. https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=md-arrays&batchId=144
 5. https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?track=md-arrays&batchId=144#
 6. https://www.interviewbit.com/problems/maximum-absolute-difference/
-7. Cycle detection
+7. Cycle detection - https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/?track=md-graph&batchId=144
 8. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count the frequency of all elements that are present and print the missing elements.
 9. https://practice.geeksforgeeks.org/problems/jump-game/1/?track=md-arrays&batchId=144#
 10. https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1/?track=md-arrays&batchId=144#
