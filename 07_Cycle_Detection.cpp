@@ -31,36 +31,54 @@
 	}
 	
 	// Undirected
-
-
 #include <iostream>
 using namespace std;
 
-int findParent(int v, int* parent)
-{
-    while(parent[v]!=v)
+ int find(int i, vector<pair<int, int>> &subset)
     {
-        v = parent[v];
+        if (subset[i].first != i)
+            subset[i].first = find(subset[i].first, subset);
+        return subset[i].first;
     }
-    return parent[v];
-}
+    
+    void Union(int x, int y, vector<pair<int, int>> &subset)
+    {
+        if (subset[x].second < subset[y].second)
+            subset[x].first = y;
+        else if (subset[x].second > subset[y].second)
+            subset[y].first = x;
+        else
+        {
+            subset[y].first = x;
+            subset[x].second++;
+        }
+    }
+    
+    bool isCycle(vector<pair<int, int>> edges, int n)
+    {
+        vector<pair<int, int>> subset;
+        for (int i = 0; i < n; i++)
+            subset.push_back({i, 0});
+    
+        for (int i = 0; i < edges.size(); i++)
+        {
+            pair<int, int> p = edges[i];
+            int x = p.first.first;
+            int y = p.first.second;
+            //cout << x << " " << y << " " << p.second << endl;
+    
+            int p1 = find(x, subset);
+            int p2 = find(y, subset);
+            //cout << p1 << " " << p2 << endl;
+            if (p1 == p2)
+                return 1;
+    
+            Union(p1, p2, subset);
+            //cout << find(x, subset) << " " << find(y, subset) << endl;
+        }
+        return 0;
+    }
 
-bool isCycle(int** graph, int v, int e)
-{
-    int* parent = new int[v];
-    for(int i=0;i<v;i++)
-        parent[i] = i;
-    for(int i=0;i<e;i++)
-    {
-        int x = findParent(graph[i][0], parent);
-        int y = findParent(graph[i][1], parent);
-        
-        if(x==y)
-            return true;
-        parent[x] = y;
-    }
-    return false;
-}
 
 int main() 
 {
