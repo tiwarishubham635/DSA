@@ -7,7 +7,7 @@
 4. https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=md-arrays&batchId=144
 5. https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1/?track=md-arrays&batchId=144#
 6. https://www.interviewbit.com/problems/maximum-absolute-difference/
-7. Cycle detection - Unidrected - https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?track=md-graph&batchId=144 Directed - https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/?track=md-graph&batchId=144
+7. Cycle detection - Undirected - https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?track=md-graph&batchId=144 Directed - https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/?track=md-graph&batchId=144
 8. Given an unsorted array of n integers which can contain integers from 1 to n. Some elements can be repeated multiple times and some other elements can be absent from the array. Count the frequency of all elements that are present and print the missing elements.
 9. https://practice.geeksforgeeks.org/problems/jump-game/1/?track=md-arrays&batchId=144#
 10. https://practice.geeksforgeeks.org/problems/maximize-number-of-1s0905/1/?track=md-arrays&batchId=144#
@@ -156,6 +156,10 @@
 153. https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1/?track=md-graph&batchId=144#
 154. https://practice.geeksforgeeks.org/problems/minimum-swaps/1/?track=md-graph&batchId=144#
 155. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1/?track=md-graph&batchId=144
+156. https://codeforces.com/contest/1537/problem/C
+157. https://codeforces.com/contest/1537/problem/D
+158. https://codeforces.com/contest/1537/problem/E1
+159. https://codeforces.com/contest/1537/problem/E2
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
