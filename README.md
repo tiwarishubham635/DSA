@@ -160,6 +160,7 @@
 157. https://codeforces.com/contest/1537/problem/D
 158. https://codeforces.com/contest/1537/problem/E1
 159. https://codeforces.com/contest/1537/problem/E2
+160. https://leetcode.com/problems/number-of-wonderful-substrings/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
