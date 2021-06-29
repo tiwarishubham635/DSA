@@ -166,6 +166,7 @@
 163. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 164. https://leetcode.com/problems/prefix-and-suffix-search/
 165. https://leetcode.com/problems/max-consecutive-ones-iii/
+166. https://practice.geeksforgeeks.org/problems/bipartite-graph/1/?track=md-graph&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
