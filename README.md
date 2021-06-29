@@ -163,6 +163,7 @@
 160. https://codeforces.com/contest/1537/problem/F
 161. https://leetcode.com/problems/number-of-wonderful-substrings/
 162. https://leetcode.com/problems/maximum-alternating-subsequence-sum/
+163. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
