@@ -171,6 +171,7 @@
 168. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1/?track=md-greedy&batchId=144#
 169. https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1/?track=md-greedy&batchId=144#
 170. https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1/?track=md-sorting&batchId=144
+171. https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/?track=md-matrix&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
