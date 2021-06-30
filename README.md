@@ -169,6 +169,7 @@
 166. https://practice.geeksforgeeks.org/problems/bipartite-graph/1/?track=md-graph&batchId=144
 167. https://practice.geeksforgeeks.org/problems/alien-dictionary/1/?track=md-graph&batchId=144#
 168. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1/?track=md-greedy&batchId=144#
+169. https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1/?track=md-greedy&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
