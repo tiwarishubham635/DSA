@@ -174,6 +174,7 @@
 171. https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/?track=md-matrix&batchId=144
 172. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 173. https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1/?track=md-hashing&batchId=144
+174. https://leetcode.com/problems/gray-code/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
