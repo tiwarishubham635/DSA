@@ -1,3 +1,51 @@
+vector<Node*> nodes;
+    int getDepth(Node* r, int d) 
+    {
+        if (!r)
+            return -1;
+
+        int depth = max(getDepth(r->left, d), getDepth(r->right, d)) + 1;
+
+        // Check if depth equals required value
+        // Require depth is -1 for tree t (only return the depth, no push)
+        if (depth == d)
+        {
+            //if(d!=-1)
+            //    cout<<r->data<<" "<<d<<endl;
+            nodes.push_back(r);
+        }
+        return depth;
+    }
+
+    bool identical(Node* a, Node* b) 
+    {
+        if (!a && !b) 
+            return true;
+        if (!a || !b || a->data != b->data) 
+            return false;
+
+        return identical(a->left, b->left) && identical(a->right, b->right);
+    }
+    
+    bool isSubTree(Node* t, Node* s) 
+    {
+        if (!s && !t) 
+            return true;
+        if (!s || !t) 
+            return false;
+
+        int dep_s = getDepth(s, -1);
+        getDepth(t, dep_s);
+
+        for (Node* n: nodes)
+        {
+            if (identical(n, s))
+                return true;
+        }
+
+        return false;
+    }
+
 Approach-1:
 bool areIdentical(node * root1, node *root2) 
 { 
