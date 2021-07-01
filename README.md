@@ -176,6 +176,7 @@
 173. https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1/?track=md-hashing&batchId=144
 174. https://leetcode.com/problems/gray-code/
 175. https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1/?track=md-queue&batchId=144
+176. https://practice.geeksforgeeks.org/problems/unique-bsts-1587115621/1/?track=md-BST&batchId=144#
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
