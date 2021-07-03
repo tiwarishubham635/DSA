@@ -180,6 +180,7 @@
 177. https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1/?track=md-greedy&batchId=144
 178. https://leetcode.com/problems/find-k-closest-elements/
 179. https://www.interviewbit.com/problems/n3-repeat-number/
+180. https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
