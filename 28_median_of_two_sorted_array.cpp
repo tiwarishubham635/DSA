@@ -1,3 +1,41 @@
+double MedianOfArrays(vector<int>& array1, vector<int>& array2)
+{
+    int n1 = array1.size(), n2 = array2.size();
+    if(n1>n2)
+        return MedianOfArrays(array2, array1);
+        
+    int l = 0, r = n1;
+    while(l<=r)
+    {
+        int mid1 = l + (r-l)/2; // 1
+        int mid2 = ((n1+n2)/2) - mid1; // 2
+        
+        // 4     6
+        // 1 2   3 5
+        
+        int l1 = (mid1==0?INT_MIN:array1[mid1-1]); // 4
+        int l2 = (mid2==0?INT_MIN:array2[mid2-1]); // 2
+        int r1 = (mid1==n1?INT_MAX:array1[mid1]);  // 6
+        int r2 = (mid2==n2?INT_MAX:array2[mid2]);  // 3
+        
+        // Necessary Condition: l1 < r2 and l2 < r1
+        
+        if(l1>r2)
+            r = mid1-1;
+        
+        else if(l2>r1)
+            l = mid1+1;
+        
+        else if((n1+n2)&1)
+            return (double)min(r1, r2);
+        
+        else
+            return ((double)max(l1, l2) + (double)min(r1, r2))/2;
+    }
+    return -1;
+}
+
+
 // A utility function to find median of two integers
 double MO2(int a, int b)
 {
