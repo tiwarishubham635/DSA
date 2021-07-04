@@ -183,6 +183,7 @@
 180. https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 181. https://codeforces.com/contest/1542/problem/B
 182. https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+183. https://leetcode.com/problems/count-good-numbers/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
