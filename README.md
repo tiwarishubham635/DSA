@@ -182,6 +182,7 @@
 179. https://www.interviewbit.com/problems/n3-repeat-number/
 180. https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 181. https://codeforces.com/contest/1542/problem/B
+182. https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
