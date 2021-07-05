@@ -1,23 +1,38 @@
-O(n2) approach
-
-int threeSumClosest(vector<int>& arr, int target) 
+int threeSumClosest(vector<int> arr, int target)
     {
+        int res = INT_MIN, minDiff = INT_MAX;
         sort(arr.begin(), arr.end());
-        int closest = INT_MAX;
-        int n = arr.size();
-        for(int i=0;i<n-2&&closest!=target;i++)
+    
+        for (int i = 0; i < arr.size(); i++)
         {
-            int ptr1 = i+1, ptr2 = n-1;
-            while(ptr1<ptr2&&closest!=target)
+            int sum = arr[i];
+            int l = i + 1, h = arr.size() - 1;
+    
+            while (l < h)
             {
-                int sum = arr[i]+arr[ptr1]+arr[ptr2];
-                if(abs(1ll*target-sum)<abs(1ll*target-closest))
-                    closest = sum;
-                if(sum<target)
-                    ptr1++;
+                int temp = sum + arr[l] + arr[h];
+    
+                int diff = abs(target - temp);
+    
+                if (diff == 0)
+                    return temp;
+                else if (temp < target)
+                    l++;
                 else
-                    ptr2--;
+                    h--;
+    
+                if (minDiff == diff)
+                {
+                    res = max(res, temp);
+                }
+                else
+                {
+                    minDiff = min(diff, minDiff);
+                    if (minDiff == diff)
+                        res = temp;
+                }
             }
         }
-        return closest;
+    
+        return res;
     }
