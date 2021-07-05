@@ -187,6 +187,7 @@
 184. https://leetcode.com/problems/longest-common-subpath/
 185. https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1/?track=md-greedy&batchId=144
 186. https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/?track=md-string&batchId=144
+187. https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1/?track=md-string&batchId=144
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
