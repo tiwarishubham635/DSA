@@ -189,6 +189,7 @@
 186. https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/?track=md-string&batchId=144
 187. https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1/?track=md-string&batchId=144
 188. https://practice.geeksforgeeks.org/problems/a-simple-fraction0921/1/?track=MD-Math&batchId=144
+189. https://leetcode.com/problems/reshape-the-matrix/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
