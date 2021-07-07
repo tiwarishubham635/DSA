@@ -190,6 +190,7 @@
 187. https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1/?track=md-string&batchId=144
 188. https://practice.geeksforgeeks.org/problems/a-simple-fraction0921/1/?track=MD-Math&batchId=144
 189. https://leetcode.com/problems/reshape-the-matrix/
+190. https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
