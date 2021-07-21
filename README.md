@@ -193,6 +193,7 @@
 190. https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/
 191. Longest non decreasing subsequence. Given an array of integers, find the length of longest non decreasing subsequence ending at that index.
 192. Maximum subarray sum if square of one number is allowed. Given an array, you can choose one integer and square it, such that resulting array has maximum subarray sum.
+193. https://leetcode.com/problems/push-dominoes/
 
 
 ## Puzzles
