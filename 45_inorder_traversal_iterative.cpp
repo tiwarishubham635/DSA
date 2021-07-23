@@ -1,3 +1,51 @@
+void inorder(TreeNode* root, vector<int>&ans) {
+        if(root==NULL)
+            return;
+        inorder(root->left, ans);
+        ans.push_back(root->val);
+        inorder(root->right, ans);
+    }
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int>ans;
+        /*inorder(root, ans);
+        return ans;*/
+        
+        /*
+        ITERATIVE STACK
+        stack<TreeNode*>s;
+        
+        while(root or !s.empty())
+        {
+            while(root)
+            {
+                s.push(root);
+                root = root->left;
+            }
+            root = s.top();
+            s.pop();
+            ans.push_back(root->val);
+            root = root->right;
+        }
+        return ans;*/
+        
+        // ITERATIVE MORRIS METHOD
+        while(root)
+        {
+            while(root->left)
+            {
+                TreeNode* last = root->left, *left_child = last;
+                while(last->right)
+                    last = last->right;
+                last->right = root;
+                root->left = NULL;
+                root = left_child;
+            }
+            ans.push_back(root->val);
+            root = root->right;
+        }
+        return ans;
+    }
+
 vector<int> inOrder(Node* root)
 {
     vector<int>ans;
