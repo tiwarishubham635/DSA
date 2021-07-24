@@ -195,6 +195,7 @@
 192. Maximum subarray sum if square of one number is allowed. Given an array, you can choose one integer and square it, such that resulting array has maximum subarray sum.
 193. https://leetcode.com/problems/push-dominoes/
 194. https://codeforces.com/problemset/problem/490/C
+195. https://codeforces.com/contest/1551/problem/C
 
 
 ## Puzzles
