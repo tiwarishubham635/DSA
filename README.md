@@ -198,6 +198,7 @@
 195. https://codeforces.com/contest/1551/problem/C
 196. https://leetcode.com/problems/describe-the-painting/
 197. https://leetcode.com/problems/number-of-visible-people-in-a-queue/
+198. https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
