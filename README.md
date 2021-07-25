@@ -197,7 +197,7 @@
 194. https://codeforces.com/problemset/problem/490/C
 195. https://codeforces.com/contest/1551/problem/C
 196. https://leetcode.com/problems/describe-the-painting/
-
+197. https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
