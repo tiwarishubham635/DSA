@@ -196,6 +196,7 @@
 193. https://leetcode.com/problems/push-dominoes/
 194. https://codeforces.com/problemset/problem/490/C
 195. https://codeforces.com/contest/1551/problem/C
+196. https://leetcode.com/problems/describe-the-painting/
 
 
 ## Puzzles
