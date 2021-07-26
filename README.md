@@ -200,6 +200,7 @@
 197. https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 198. https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 199. https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787?leftPanelTab=0
+200. https://www.codingninjas.com/codestudio/problems/distinct-subsequences_799558?leftPanelTab=0
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
