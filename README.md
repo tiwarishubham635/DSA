@@ -203,6 +203,7 @@
 200. https://www.codingninjas.com/codestudio/problems/distinct-subsequences_799558?leftPanelTab=0
 201. https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?leftPanelTab=0
 202. https://leetcode.com/problems/trapping-rain-water-ii/
+203. https://leetcode.com/problems/making-a-large-island/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
