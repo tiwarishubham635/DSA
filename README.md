@@ -204,6 +204,7 @@
 201. https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?leftPanelTab=0
 202. https://leetcode.com/problems/trapping-rain-water-ii/
 203. https://leetcode.com/problems/making-a-large-island/
+204. https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
