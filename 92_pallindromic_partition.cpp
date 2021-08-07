@@ -77,6 +77,53 @@ int isPallindrome(string x)
         return cut[n-1];
     }
 
+int minCut(string s) {
+        int n = s.size();
+        vector<vector<int>>p(n, vector<int>(n,0));
+        for(int i=0;i<n;i++)
+            p[i][i]=1;
+        //vector<vector<int>>dp(n, vector<int>(n,INT_MAX));
+        vector<int>cut(n,INT_MAX);
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int j=i;j<n;j++)
+            {
+                if(s[i]==s[j]&&(j-i<=1 or p[i+1][j-1]))
+                    p[i][j] = 1;
+            }
+        }
+        
+        for(int i=0;i<n;i++) // end points
+        {
+            if(p[0][i])
+                cut[i]=0;
+            else
+            {
+                for(int j=0;j<i;j++) // 
+                    if(p[j+1][i])
+                        cut[i] = min(cut[i], 1+cut[j]);
+            }
+        }
+        
+        return cut[n-1];
+        /*
+        
+        for(int i=0;i<n;i++)
+        {
+            int mcut=i;
+            for(int j=0;j<=i;j++)
+            {
+                if(s[i]==s[j]&&(i-j<=1 or p[j+1][i-1]))
+                {
+                    p[j][i] = 1;
+                    mcut = min(mcut, (j==0?0:1+cut[j-1]));
+                }
+                cut[i]=mcut;
+            }
+        }
+        return cut[n-1];*/
+    }
+
 
 TO PRINT ALL PALLINDROMES
  bool isPallindrome(string s)
