@@ -208,7 +208,8 @@
 205. https://www.geeksforgeeks.org/kth-smallest-sum-of-continuous-subarrays-of-positive-numbers/
 206. https://leetcode.com/problems/minimum-window-substring/
 207. https://leetcode.com/problems/container-with-most-water/
-208. https://leetcode.com/problems/longest-arithmetic-subsequence/
+208. https://leetcode.com/problems/flip-string-to-monotone-increasing/
+210. https://leetcode.com/problems/longest-arithmetic-subsequence/
 
 
 ## Puzzles
