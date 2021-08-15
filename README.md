@@ -211,6 +211,7 @@
 208. https://leetcode.com/problems/flip-string-to-monotone-increasing/
 209. https://leetcode.com/problems/longest-arithmetic-subsequence/
 210. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+211. https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 
 ## Puzzles
