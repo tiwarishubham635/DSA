@@ -213,6 +213,7 @@
 210. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 211. https://leetcode.com/problems/subarrays-with-k-different-integers/
 212. https://codeforces.com/problemset/problem/1354/B
+213. https://www.interviewbit.com/problems/allocate-books/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
