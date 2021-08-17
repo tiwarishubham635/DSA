@@ -214,6 +214,7 @@
 211. https://leetcode.com/problems/subarrays-with-k-different-integers/
 212. https://codeforces.com/problemset/problem/1354/B
 213. https://www.interviewbit.com/problems/allocate-books/
+214. Given a string and a vector of forbidden pairs (a character can appear only in one forbidden pair), find the minimum no. of deletions required such that no forbidden pair (or its reverse) is present in given string.
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
