@@ -217,6 +217,7 @@
 214. Given a string and a vector of forbidden pairs (a character can appear only in one forbidden pair), find the minimum no. of deletions required such that no forbidden pair (or its reverse) is present in given string.
 215. https://www.geeksforgeeks.org/maximize-distance-between-any-two-consecutive-1s-after-flipping-m-0s/
 216. https://leetcode.com/problems/last-day-where-you-can-still-cross/
+217. https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
