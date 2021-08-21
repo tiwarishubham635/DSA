@@ -219,6 +219,7 @@
 216. https://leetcode.com/problems/last-day-where-you-can-still-cross/
 217. https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/
 218. https://www.geeksforgeeks.org/number-subsets-product-less-k/
+219. https://leetcode.com/problems/sudoku-solver/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
