@@ -1,33 +1,44 @@
 //Directed
 	
-	bool cycle(vector<int> adj[], int n, int v, vector<int>&visited, vector<int>&rec_stack)
-    {
-        if(!visited[v])
-        {
-            visited[v]=1;
-            rec_stack[v]=1;
-            
-            for(int i=0;i<adj[v].size();i++)
-            {
-                if(!visited[adj[v][i]] && cycle(adj, n, adj[v][i], visited, rec_stack))
-                    return true;
-                else if(rec_stack[adj[v][i]])
-                    return true;
-            }
-        }
-        rec_stack[v]=0;
-        return false;
-    }
-	
-	bool isCyclic(int n, vector<int> adj[]) 
+	bool dfs(vector<int> adj[], int vertex, vector<int>&vis, vector<int>&path)
 	{
-	    vector<int>visited(n,0);
-	    vector<int>rec_stack(n,0);
+	    vis[vertex] = 1;
+	    path[vertex] = 1;
 	    
-	    for(int i=0;i<n;i++)
-	        if(cycle(adj, n, i, visited, rec_stack))
+	    for(int i=0;i<adj[vertex].size();i++)
+	    {
+	        if(!vis[adj[vertex][i]])
+	        {
+	            if(dfs(adj, adj[vertex][i], vis, path))
+	            {
+	                //cout<<vertex<<" "<<true<<endl;
+	                return true;
+	            }
+	        }
+	        
+	        else if(path[adj[vertex][i]])
+	        {
+	            //cout<<vertex<<" "<<true<<endl;
 	            return true;
-	   return false;
+	        }
+	    }
+	    
+	    path[vertex] = 0;
+	    //cout<<vertex<<" "<<false<<endl;
+	    return false;
+	}
+	
+	bool isCyclic(int V, vector<int> adj[]) 
+	{
+	   	vector<int>vis(V,0);
+	   	vector<int>path(V,0);
+	   	for(int i=0;i<V;i++)
+	   	{
+	   	    if(!vis[i])
+    	   	    if(dfs(adj, i, vis, path))
+	   	            return true;
+	   	}
+	   	return false;
 	}
 	
 	// Undirected
