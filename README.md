@@ -223,6 +223,7 @@
 220. https://leetcode.com/problems/lru-cache/
 221. https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 222. https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+223. https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
