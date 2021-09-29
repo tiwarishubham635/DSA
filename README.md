@@ -226,6 +226,7 @@
 223. https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 224. https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#
 225. https://leetcode.com/problems/sum-of-distances-in-tree/solution/
+226. https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 
 ## Puzzles
 1. https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
