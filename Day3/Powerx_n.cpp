@@ -1,3 +1,4 @@
+// Question: https://leetcode.com/problems/powx-n/
 class Solution {
     double power(double x, long long n)
     {
